@@ -2,7 +2,7 @@
 
 A tiny **C** program that mimics `ls` but adds a splash of colour and emojis to make directory listings.
 
-The project is part of a personal coding challenge: Write a small C Programm Every Day (I have Time)
+The project is part of a personal coding challenge: Write a small C Programm Every Day (When i have Time(probably never))
 
 ---
 
