@@ -19,8 +19,8 @@ The project is part of a personal coding challenge: Write a small C Programm Eve
 
 ```bash
 # Clone the repo
-git clone 
-cd ls-clone-emoji-color
+git clone https://github.com/BlyDoesCoding/ls-clone
+cd ls-clone
 
 # Compile (requires Unix)
 gcc -o ls-clone main.c
