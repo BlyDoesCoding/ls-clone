@@ -13,6 +13,9 @@ The project is part of a personal coding challenge: Write a small C Programm Eve
 - Works on Linux/macOS (uses `dirent.h` and ANSI escape codes).  
 - No external dependencies – just the C standard library.  
 
+
+<img width="1009" height="434" alt="image" src="https://github.com/user-attachments/assets/5b9c1269-bf0d-4b34-83fb-4546fc4613ee" />
+
 ---
 
 ### Build & Install
